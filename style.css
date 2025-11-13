@@ -17,3 +17,15 @@ header{
     padding: 10px;
     color: violet;
 }
+.chamada{
+    background:(cor)
+    padding:80px;
+    display:flex;
+    justify-content:center;
+}
+.chamada-texto{
+    margin-right:8%;
+}
+img{
+    heigt:200px;
+}
