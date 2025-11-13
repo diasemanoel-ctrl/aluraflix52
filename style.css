@@ -1,0 +1,19 @@
+body{
+    background-color: aqua
+    color(srgb rgb(164, 48, 31) rgb(57, 164, 57) rgb(198, 53, 162));
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    margin: 0px;
+}
+h1{
+    color: coral;
+    font-size: 40px;
+}
+p{
+    font-size: 25px;
+}
+header{
+    border-bottom: cadetblue;
+    margin: 2px;
+    padding: 10px;
+    color: violet;
+}
